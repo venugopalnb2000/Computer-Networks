@@ -1,0 +1,10 @@
+What is a standalone computer? , A computer not connected to a network., A computer connected to a network., A portable computer., A computer which is not portable.
+What does LAN stand for?, Local Area Network, Low Area Network, Local Arial Net, Low Angle Network.
+The attackers a network of compromised devices known as ?, Internet, Botnet, Telnet, D-net
+Which of the following is a form of DoS attack ?, Vulnerability attack, Bandwidth flooding, Connection flooding, All of the mentioned
+The DoS attack is which the attacker establishes a large number of half-open or fully open TCP connections at the target host, Vulnerability attack, Bandwidth flooding, Connection flooding, All of the mentioned
+The DoS attack is which the attacker sends deluge of packets to the targeted host, Vulnerability attack, Bandwidth flooding, Connection flooding, All of the mentioned
+Packet sniffers involve, Active receiver, Passive receiver, Both Active receiver and Passive receiver, None of the mentioned
+Sniffers can be deployed in, Wired environment, WiFi, Ethernet LAN, All of the mentioned
+Firewalls are often configured to block, UDP traffic, TCP traffic, Both of the mentioned, None of the mentioned
+In a network, If P is the only packet being transmitted and there was no earlier transmission, which of the following delays could be zero, Propogation delay, Queuing delay, Transmission delay, Processing delay
